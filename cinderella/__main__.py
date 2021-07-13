@@ -51,14 +51,14 @@ And the following:
 
 
 
-VERSION = "6.0"
+VERSION = "1.0"
 
 def vercheck() -> str:
     return str(VERSION)
 
 
 SOURCE_STRING = """
-⚡I'm built in python3, And My Source Code Is Private🥳
+⚡I'm built in python3, And My Source Code Is Private.
 
 
 IMPORTED = {}
